@@ -1,0 +1,10 @@
+@media (max-width: 640px) {
+  .signup-box-container {
+    width: 90%;
+    padding: 30px;
+  }
+
+  .signup-title {
+    font-size: 28px !important;
+  }
+}

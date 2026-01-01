@@ -1,0 +1,10 @@
+@media (max-width: 640px) {
+  .login-box-container {
+    width: 90%;
+    padding: 30px;
+  }
+
+  .login-title {
+    font-size: 28px !important;
+  }
+}
