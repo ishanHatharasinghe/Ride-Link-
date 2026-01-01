@@ -1,0 +1,9 @@
+/*
+  X-Content-Type-Options: nosniff
+
+/*.js
+  Content-Type: application/javascript
+/*.mjs
+  Content-Type: application/javascript
+/*.wasm
+  Content-Type: application/wasm
